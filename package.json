@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-javascript-action",
+  "name": "ignitionpoc-javascript-action",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/telus-agcg/hello-world-javascript-action.git"
+    "url": "git+https://github.com/telus-agcg/ignitionpoc-javascript-action.git"
   },
   "keywords": [],
   "author": "",
